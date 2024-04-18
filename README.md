@@ -35,7 +35,8 @@ This is a simple blog application implemented using Spring Boot. It includes fea
 
 3. **Access Swagger UI**:
 
-    Swagger UI provides an interactive documentation for the API endpoints. Access it at ([http://localhost:8080/swagger-ui.html](http://localhost:8888/swagger-ui/index.html#/)).
+    Swagger UI provides an interactive documentation for the API endpoints. Access it at Swagger UI
+   http://localhost:8888/swagger-ui/index.html#/
 
 ## API Endpoints
 
