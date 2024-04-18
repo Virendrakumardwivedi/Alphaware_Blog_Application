@@ -78,15 +78,16 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 ## Swagger output
 
 
-![Screenshot (584)](https://github.com/Virendrakumardwivedi/Alphaware_Blog_Application/assets/101566111/b04d4d07-5436-4acb-ab7f-e7085e4be1cf)
+![Screenshot (588)](https://github.com/Virendrakumardwivedi/Alphaware_Blog_Application/assets/101566111/ccfb43b2-382a-4fc0-80ad-cb4dcc30a23e)
 
 
 
-![Screenshot (585)](https://github.com/Virendrakumardwivedi/Alphaware_Blog_Application/assets/101566111/c5a5315d-8a84-4a7a-8c58-ef50acaa5a14)
+![Screenshot (589)](https://github.com/Virendrakumardwivedi/Alphaware_Blog_Application/assets/101566111/62534e0e-689d-404b-bd1a-0a153dfb688f)
+
+
+![Screenshot (590)](https://github.com/Virendrakumardwivedi/Alphaware_Blog_Application/assets/101566111/c16342da-6135-425a-8962-5bb182e5e915)
 
 
 
-![Screenshot (586)](https://github.com/Virendrakumardwivedi/Alphaware_Blog_Application/assets/101566111/23a1c213-cace-4f17-be69-c4f4a3cf8f41)
+![Screenshot (591)](https://github.com/Virendrakumardwivedi/Alphaware_Blog_Application/assets/101566111/228f8893-e6b8-462f-bdaa-052d6db6b2bb)
 
-
-![Screenshot (587)](https://github.com/Virendrakumardwivedi/Alphaware_Blog_Application/assets/101566111/fd792bec-0c5e-4854-9e50-9570d3aaf50c)
